@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import bed from './homerBedAngry.svg';
 import './App.css';
 
 function App() {
